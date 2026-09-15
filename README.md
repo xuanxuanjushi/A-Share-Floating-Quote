@@ -1,10 +1,12 @@
 <h1 align="center">A股盯盘小窗</h1>
-<p align="center"><b>A-share Floating Quote Window</b></p>
+<p align="center"><b>A-Share Floating Quote</b></p>
 <p align="center">Windows 10/11 · Python + Tkinter · 免费公开行情源</p>
 
 > 一个轻量桌面悬浮盯盘小工具，支持股票、ETF 和板块盯盘，并内置黄金、布伦特原油、纳指、上证指数等指标。
 >
 > A lightweight always-on-top floating quote window for stocks, ETFs and sectors, with built-in indicators for gold, Brent crude, Nasdaq and the Shanghai Composite.
+
+> 关键词：盯盘、悬浮窗、股票、ETF、板块、实时行情 / Keywords: stock quotes, floating window, always on top, ETF, sector, market data, Tkinter, a-share
 
 [简体中文](#界面预览) | [English](#english)
 
