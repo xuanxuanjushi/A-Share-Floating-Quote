@@ -14,6 +14,14 @@
 
 ![盯盘小窗](docs/images/floater.png)
 
+## 下载
+
+免安装便携版在 [Releases](https://github.com/xuanxuanjushi/A-Share-Floating-Quote/releases/latest) 页面：
+
+| 文件 | 说明 |
+| --- | --- |
+| A-Share-Floating-Quote-portable-v1.0.0.zip | 解压后双击 `A股盯盘小窗.exe` 即可使用，不需要安装 Python |
+
 ## 功能
 
 - 标的和板块默认显示 3 个输入行，可以在设置里继续添加
