@@ -1,0 +1,34 @@
+{
+  "stocks": [
+    {
+      "code": "sh601899",
+      "name": "紫金矿业",
+      "name_hidden": true,
+      "price_hidden": false
+    },
+    {
+      "code": "sh600988",
+      "name": "赤峰黄金",
+      "name_hidden": true,
+      "price_hidden": false
+    },
+    {
+      "code": "sz000630",
+      "name": "铜陵有色",
+      "name_hidden": true,
+      "price_hidden": false
+    }
+  ],
+  "boards": [],
+  "show_gold": true,
+  "show_brent": true,
+  "show_nasdaq": true,
+  "show_shanghai": true,
+  "opacity": 0.53,
+  "scale": 0.82,
+  "refresh_seconds": 1,
+  "window_x": 2724,
+  "window_y": 1559,
+  "chart_width": 360,
+  "chart_height": 220
+}
